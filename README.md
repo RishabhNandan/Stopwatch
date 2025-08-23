@@ -24,7 +24,7 @@ The **Stopwatch App** is a simple yet functional web-based stopwatch built using
 5. **Help**: Click the **Help** button to view usage instructions in a modal.
 
 ## Installation & Setup
-No installation is required. Simply open the `index.html` file in a web browser to use the app.
+You don't need to install anything. Open the `index.html` file in a web browser to use the app.
 
 ## Code Explanation
 - The **HTML** file defines the stopwatch display, buttons, and modals.
